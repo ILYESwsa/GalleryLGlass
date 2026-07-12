@@ -26,5 +26,6 @@ dependencies {
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
     debugImplementation("androidx.compose.ui:ui-tooling")
+    // AndroidLiquidGlass/Backdrop from https://github.com/Kyant0/AndroidLiquidGlass
     implementation("io.github.kyant0:backdrop-android:2.0.0")
 }
